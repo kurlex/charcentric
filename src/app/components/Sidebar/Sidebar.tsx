@@ -3,7 +3,7 @@
 import MemberProfile from "./MemberProfile";
 import ChatLinks from "./ChatLinks";
 import Image from "next/image";
-import charcentric from "../../../../public/charcentric.png";
+import charcentric from "../../assets/charcentric.png";
 import Loader from "../Loader";
 import { useSharedStateContext } from "../../context/SharedStateContext";
 
