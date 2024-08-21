@@ -1,3 +1,7 @@
+## Demo
+
+https://github.com/user-attachments/assets/cdcf9f4e-d756-4271-b6f3-e677236b0375
+
 ## Database
 
 The app uses three tables: `Chat`, `Conversation`, and `Word`.
